@@ -1,4 +1,7 @@
-# hibiyaScheduler
+# Scheduler4Hibiya
+
+<img width="632" alt="image" src="https://github.com/ItsukiKigoshi/Scheduler4Hibiya/assets/67095865/29b18fe3-bae6-4273-b05b-180d206c19e0">
+
 
 - まずサンプルを作る
 - シンプルなUI
